@@ -18,3 +18,6 @@ $bean->name = $name;
 $bean->value = $val;
 R::store($bean);
 ```
+--------
+
+* It is not my code, All credit are to redbean creator!
